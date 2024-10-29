@@ -1,0 +1,23 @@
+body{
+    background-color: azure;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: red solid 5px;
+    text-align: center;
+}
+
+img{
+    border-radius: 120px;
+    width: 100px;
+    padding: 10PX 0 0 0 ;
+}
+.perfil{
+    font-size: 26px;
+    color: blueviolet;
+    font-weight: bold;
+}
+h1{
+    font-size: 36px;
+}
